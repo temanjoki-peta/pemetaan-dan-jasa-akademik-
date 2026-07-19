@@ -17,6 +17,3 @@ Website satu halaman untuk jasa **@temanjoki.peta** (Pemetaan &amp; Jasa Akademi
 2. **Link Instagram/GitHub** — ✅ sudah diisi `@temanjoki.peta`.
 3. **Foto portofolio** — ⏳ masih placeholder, ganti dengan hasil peta asli kamu (lihat catatan di halaman Portofolio).
 4. **Harga** — ⏳ masih estimasi, sesuaikan dengan tarif kamu sendiri di bagian Harga.
-
-## Cara publish ke GitHub Pages (dari nol)
-Lihat langkah lengkap di chat Claude.
